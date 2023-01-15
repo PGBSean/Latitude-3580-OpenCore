@@ -9,7 +9,7 @@ This EFI applys to:
 - Intel Core i7 7500U CPU
 - Intel Iris 620 iGPU (AMD dGPU don't work)
 - Dell X.21.0 BIOS (latest version for sure)
-- A Android device for Wi-Fi (You can use a compatible Wi-Fi card or the built-in Realtek Ethernet card [YOU NEED A KEXT IF YOU HAVE ANOTHER WIFI CARD])
+- An Android device for Wi-Fi (You can use a compatible Wi-Fi card or the built-in Realtek Ethernet card [YOU NEED A KEXT IF YOU HAVE ANOTHER WIFI CARD])
 
 The config.plist includes:
 - Mapped USB and Camera (Camera is not suitable for people who has darker skin tone)
