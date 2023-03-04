@@ -24,4 +24,4 @@ To install macOS, you need a OS version at least macOS 11 (Big Sur) or above, th
 **DO NOT LOG IN TO YOUR APPLE ID ON FIRST SETUP**, because the serial number isn't vaild anymore! Update on your own by using GenSMBIOS (https://github.com/corpnewt/GenSMBIOS)
 
 ## Screenshot
-![Screenshot 2022-11-24 at 21 07 28](https://user-images.githubusercontent.com/97381104/203803987-6c35ce12-0772-4312-9652-f59a3ae50ea9.png)
+![Screenshot 2023-03-04 at 20 14 20](https://user-images.githubusercontent.com/97381104/222903854-15243e7f-de16-4d9c-a4eb-0c51d7382eb4.png)
