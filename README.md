@@ -9,13 +9,13 @@ Anyways, back to the topic 💁‍♂️
 - When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
 - Screensavers may lag, depends on what screensaver you choosing.
 
-This EFI applys to:
+## This EFI applys to:
 - Intel Core i7 7XXXU CPU
 - Intel Iris 620 iGPU (AMD dGPU don't work)
 - Dell X.21.0 BIOS (latest version just for sure)
 - An Android device for Wi-Fi (You can use a compatible Wi-Fi card or the built-in Realtek Ethernet card [YOU NEED A KEXT IF YOU HAVE ANOTHER WIFI CARD])
 
-The config.plist includes:
+## The config.plist includes:
 - Mapped USB and Camera (Camera is not suitable for people who has darker skin tone)
 - SecureBootControl is set to MacBookPro 15,1 and ApECID for enhanced security (You do not to enable Secure Boot in the BIOS)
 - Proper HDMI support and display calibration
