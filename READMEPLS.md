@@ -5,6 +5,10 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 Anyways, back to the topic 💁‍♂️
 
+## Bugs
+- When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
+- Screensavers may lag, depends on what screensaver you choosing.
+
 This EFI applys to:
 - Intel Core i7 7XXXU CPU
 - Intel Iris 620 iGPU (AMD dGPU don't work)
