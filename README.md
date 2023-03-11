@@ -8,6 +8,7 @@ Anyways, back to the topic 💁‍♂️
 ## Bugs
 - When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
 - Screensavers may lag, depends on what screensaver you choosing.
+- OpenCore 0.9.0 update for this EFI was skipped, due to personal life.
 
 ## This EFI applys to:
 - Intel Core i7 7XXXU CPU
