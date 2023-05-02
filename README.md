@@ -3,7 +3,7 @@ This repo lets you download your OpenCore EFI for the Dell Latitude 3580.
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
-Anyways, back to the topic 💁‍♂️
+If you're not sure how to install or troubleshoot, refer to this [Wiki for gists](https://github.com/PGBSean/OC-DELL-LTT3580/wiki)
 
 ## Bugs
 - When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
@@ -22,18 +22,6 @@ Anyways, back to the topic 💁‍♂️
 - SecureBootControl is set to MacBookPro 15,1 and ApECID for enhanced security (You do not to enable Secure Boot in the BIOS)
 - Proper HDMI support and display calibration
 - and more...
-
-## Set up
-To install macOS, you need a OS version at least macOS 11 (Big Sur) or above, this includes macOS Monterey, Ventura, and above (Beta versions not guaranteed), and a proper Internet connection for SecureBootControl and ApECID for personlized volumes.
-
-Before you go ahead and install macOS, make sure that:
-- BitLocker is **suspended** or **turned off** in Windows (if needed)
-- Turn off **Secure Boot**, **Fastboot**, **TPM**, and **Auto OS Recovery** Threshold in BIOS
-- If you have Windows installed, it's **reccommended** that you **wipe** the drive through BIOS or on your own.
-- If your **Ethernet port** is **damaged** or not available, use your Android phone instead.
-
-## iServices
-**DO NOT LOG IN TO YOUR APPLE ID ON FIRST SETUP**, because the serial number isn't vaild anymore! Update on your own by using GenSMBIOS (https://github.com/corpnewt/GenSMBIOS)
 
 ## Screenshot
 ![Screenshot 2023-03-04 at 20 14 20](https://user-images.githubusercontent.com/97381104/222903854-15243e7f-de16-4d9c-a4eb-0c51d7382eb4.png)
