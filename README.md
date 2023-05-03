@@ -20,6 +20,7 @@ If you're not sure how to install or troubleshoot, refer to this [Latitude 3580 
 - Screensavers may lag, depends on what screensaver you choosing.
 - I'm no longer have access to my test machine, so expect bugs in newer releases.
 - OpenCore 0.9.2 EFI update will not available as the next update next month.
+- In some cases, HDMI output won't work. Instead, the built-in display flickers.
 
 ## Tested versions
 - [INCOMPATIBLE] macOS High Sierra
