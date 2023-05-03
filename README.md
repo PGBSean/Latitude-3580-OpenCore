@@ -1,4 +1,7 @@
-# OpenCore - Dell - Latitude 3580
+# Latitude-3580-OpenCore
+
+Formally called OC-DELL-LTT3580
+
 This repo lets you download your OpenCore EFI for the Dell Latitude 3580.
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
