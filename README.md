@@ -3,7 +3,7 @@ This repo lets you download your OpenCore EFI for the Dell Latitude 3580.
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
-If you're not sure how to install or troubleshoot, refer to this [Wiki for gists](https://github.com/PGBSean/OC-DELL-LTT3580/wiki)
+If you're not sure how to install or troubleshoot, refer to this [OC-DELL-LTT3580 Wiki](https://github.com/PGBSean/OC-DELL-LTT3580/wiki)
 
 ## Bugs
 - When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
