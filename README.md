@@ -12,13 +12,11 @@ If you're not sure how to install or troubleshoot, refer to this [Latitude 3580 
 ## This EFI applys to:
 - Intel Core i7 7XXXU CPU (if you using other than i7, please tweak by yourself in the config.plist, or DM me.)
 - Intel Iris 620 iGPU (AMD dGPU don't work)
-- Dell X.21.0 BIOS (latest version is reccommended)
-- An Android device for Wi-Fi (You can use a compatible Wi-Fi card or the built-in Realtek Ethernet card **YOU NEED A KEXT IF YOU HAVE ANOTHER WIFI CARD**)
+- An Android device for Wi-Fi (**YOU NEED A KEXT IF YOU HAVE ANOTHER WIFI CARD**)
 
 ## Bugs
 - When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
 - Screensavers may lag, depends on what screensaver you choosing.
-- I'm no longer have access to my test machine, so expect bugs in newer releases.
 - In some cases, HDMI output won't work. Instead, the built-in display flickers.
 
 ## Tested versions
