@@ -6,8 +6,6 @@ This repo lets you download your OpenCore EFI for the Dell Latitude 3580.
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
-If you're not sure how to install or troubleshoot, refer to this [Latitude 3580 OpenCore Wiki](https://github.com/PGBSean/OC-DELL-LTT3580/wiki)
-
 
 ## This EFI applys to:
 - Intel Core i7 7XXXU CPU (if you using other than i7, please tweak by yourself in the config.plist, or DM me.)
