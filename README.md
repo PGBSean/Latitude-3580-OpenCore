@@ -8,7 +8,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 
 ## This EFI applys to:
-|  Components             |         Name                 |            Note                      |
+|  Components             |         Requirements                |            Note                      |
 |---------------------|---------------------------------|--------------------------------------|
 | CPU |  Intel Core i7-7600U          |  For other CPUs, contact me |
 | GPU |  Intel Iris 620              | AMD/Nivida dGPU won't work |
