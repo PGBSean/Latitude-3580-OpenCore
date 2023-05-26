@@ -22,7 +22,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 ## Tested versions
 - [INCOMPATIBLE] macOS High Sierra
 - [INCOMPATIBLE] macOS Mojave
-- [x] macOS Catalina
+- [?] macOS Catalina (Stuck on Unable to verify macOS)
 - [x] macOS Big Sur
 - [x] macOS Monterey
 - [x] macOS Ventura
