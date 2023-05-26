@@ -16,7 +16,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 ## Bugs
 - When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
-- Screensavers may lag, depends on what screensaver you choosing.
+- Brightness keys does not work.
 - In some cases, HDMI output won't work. Instead, the built-in display flickers.
 
 ## Tested versions
