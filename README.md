@@ -8,9 +8,11 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 
 ## This EFI applys to:
-- Intel Core i7 7XXXU CPU (if you using other than i7, please tweak by yourself in the config.plist, or DM me.)
-- Intel Iris 620 iGPU (AMD dGPU don't work)
-- An Android device for Wi-Fi (**YOU NEED A KEXT IF YOU HAVE ANOTHER WIFI CARD**)
+|  Components             |         Name                 |            Note                      |
+|---------------------|---------------------------------|--------------------------------------|
+| CPU |  Intel Core i7-7600U          |  For other CPUs, contact me |
+| GPU |  Intel Iris 620              | AMD/Nivida dGPU won't work |
+| Wi-Fi | Ethernet  |  To get Wi-Fi working, you could use a compatible Wi-Fi card or use your Android device (HoRnDIS.kext included)|              
 
 ## Bugs
 - When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
@@ -20,7 +22,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 ## Tested versions
 - [INCOMPATIBLE] macOS High Sierra
 - [INCOMPATIBLE] macOS Mojave
-- [UNTESTED] macOS Catalina
+- [x] macOS Catalina
 - [x] macOS Big Sur
 - [x] macOS Monterey
 - [x] macOS Ventura
