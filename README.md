@@ -26,7 +26,8 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 - [x] macOS Big Sur
 - [x] macOS Monterey
 - [x] macOS Ventura
-- [???] macOS Sequoia
+- [UNSURE] macOS Sonoma
+To get macOS Sonoma working, you may need OCLP installed on your machine. As of June of 2023, DO NOT INSTALL YET SINCE IT'S THE FIRST BETA!
 
 ## The config.plist includes:
 - Mapped USB and Camera (Camera is not suitable for people who has darker skin tone)
