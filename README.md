@@ -26,7 +26,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 - [x] macOS Big Sur
 - [x] macOS Monterey
 - [x] macOS Ventura
-- [x] Ventura beta is working!
+- [???] macOS Sequoia
 
 ## The config.plist includes:
 - Mapped USB and Camera (Camera is not suitable for people who has darker skin tone)
