@@ -27,7 +27,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 - [x] macOS Monterey
 - [x] macOS Ventura
 - [TESTING] macOS Sonoma
-> To get macOS Sonoma working, you need OCLP installed on your machine. As of June 2023, installing is bascially **YOYOK**, and I can't help you with that!
+> To get macOS Sonoma working, you need OCLP installed on your machine. As of June 2023, installing is basically **YOYOK**, and I can't help you with that!
 
 ## The config.plist includes:
 - Mapped USB and Camera (Camera is not suitable for people who has darker skin tone)
