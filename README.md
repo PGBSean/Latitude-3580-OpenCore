@@ -25,7 +25,8 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 - [?] macOS Catalina (Stuck on Unable to verify macOS)
 - [x] macOS Big Sur
 - [x] macOS Monterey
-- [x] macOS Ventura
+- [!] macOS Ventura
+> June 6, 2023: macOS Ventura always stuck at the finished progress bar, and stuck at "About a minute remaining". Trying to fix the bug...
 - [TESTING] macOS Sonoma
 > To get macOS Sonoma working, you need OCLP installed on your machine. As of June 2023, installing is basically **YOYOK**, and I can't help you with that!
 
