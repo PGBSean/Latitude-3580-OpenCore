@@ -27,6 +27,8 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 - [x] macOS Monterey
 - [!] macOS Ventura
 > June 6, 2023: macOS Ventura always stuck at the finished progress bar, and stuck at "About a minute remaining". Trying to fix the bug...
+
+> **UPDATE**: This is a Apple server side, please wait!
 - [TESTING] macOS Sonoma
 > To get macOS Sonoma working, you need OCLP installed on your machine. As of June 2023, installing is basically **YOYOK**, and I can't help you with that!
 
