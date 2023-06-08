@@ -38,8 +38,9 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 > New version of this SMBIOS will be released once I've completed all of the testing needed.
 
 ## The config.plist includes:
+- Support for Ventura (Sonoma coming soon)
 - Mapped USB and Camera (Camera is not suitable for people who has darker skin tone)
-- SecureBootControl is set to MacBookPro 15,1 and ApECID for enhanced security (You do not to enable Secure Boot in the BIOS)
+- SecureBootControl is set to MacBookPro 14,1 and ApECID for enhanced security (You do not to enable Secure Boot in the BIOS)
 - Proper HDMI support and display calibration
 - and more...
 
