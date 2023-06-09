@@ -12,7 +12,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 |---------------------|---------------------------------|--------------------------------------|
 | CPU |  Intel Core i7-7600U          |  For other CPUs, contact me |
 | GPU |  Intel Iris 620              | AMD/Nivida dGPU won't work |
-| Wi-Fi | Ethernet  |  To get Wi-Fi working, you could use a compatible Wi-Fi card or use your Android device (HoRnDIS.kext included)|              
+| Wi-Fi | Ethernet  |  To get Wi-Fi working, you could use a compatible Wi-Fi card or use your Android device (HoRnDIS.kext included)|
 
 ## Bugs
 - When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
@@ -20,22 +20,14 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 - In some cases, HDMI output won't work. Instead, the built-in display flickers.
 
 ## Tested versions
+> This machine is **Safe to Upgrade**! You can upgrade to any macOS available without worrying about stability! Just for safe, always use the latest EFI version!
 - [INCOMPATIBLE] macOS High Sierra
 - [INCOMPATIBLE] macOS Mojave
 - [?] macOS Catalina (Stuck on Unable to verify macOS)
 - [x] macOS Big Sur
 - [x] macOS Monterey
 - [x] macOS Ventura
-- [TEST PENDING] macOS Sonoma
-> To get macOS Sonoma working, you may need to have OCLP installed on your machine. As of June 2023, installing is basically **YOYOK**, and I can't help you with that!
-
-> ~~Will start the test procedure when the new version of OCLP released.~~
-
-> To test Sonoma early, it's better off to change the SMBIOS to a newer one, in this case, the MacBookPro15,4 (13-inch, 2019)
-
-> In the future, there will be two releases, one for the new SMBIOS, and the other for the current one (14,1)
-
-> New version of this SMBIOS will be released once I've completed all of the testing needed.
+- [x] macOS Sonoma
 
 ## The config.plist includes:
 - Support for Ventura (Sonoma coming soon)
