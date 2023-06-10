@@ -15,6 +15,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 | Wi-Fi | Ethernet  |  To get Wi-Fi working, you could use a compatible Wi-Fi card or use your Android device (HoRnDIS.kext included)|
 
 ## Bugs
+- Camera does not work in Sonoma
 - When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
 - Brightness keys does not work.
 - In some cases, HDMI output won't work. Instead, the built-in display flickers.
