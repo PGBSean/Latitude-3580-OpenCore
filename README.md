@@ -22,16 +22,14 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 ## Tested versions
 > This machine is **Safe to Upgrade**! You can upgrade to any macOS available without worrying about stability! Just for safe, always use the latest EFI version!
-- [INCOMPATIBLE] macOS High Sierra
-- [INCOMPATIBLE] macOS Mojave
-- [?] macOS Catalina (Stuck on Unable to verify macOS)
-- [x] macOS Big Sur
-- [x] macOS Monterey
-- [x] macOS Ventura
-- [x] macOS Sonoma
++ macOS Catalina
++ macOS Big Sur
++ macOS Monterey
++ macOS Ventura
++ macOS Sonoma
 
 ## The config.plist includes:
-- Support for Ventura (Sonoma coming soon)
+- Support for the latest macOS available
 - Mapped USB and Camera (Camera is not suitable for people who has darker skin tone)
 - Proper HDMI support and display calibration
 - and more...
