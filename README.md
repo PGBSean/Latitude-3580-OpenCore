@@ -27,6 +27,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 + macOS Monterey
 + macOS Ventura
 + macOS Sonoma
+> **macOS Users:** To download macOS Sonoma for your EFI drive, use this link: https://swcdn.apple.com/content/downloads/23/44/032-94352-A_DB05J15QWT/4x91v0yzolyiat5cat76ieu0h78aeu3d03/InstallAssistant.pkg
 
 ## The config.plist includes:
 - Support for the latest macOS available
