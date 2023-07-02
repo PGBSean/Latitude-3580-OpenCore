@@ -15,7 +15,8 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 | Wi-Fi | Ethernet  |  To get Wi-Fi working, you could use a compatible Wi-Fi card or use your Android device (HoRnDIS.kext included)|
 
 ## Bugs
-- Camera does not work in Sonoma
+- Camera does not work
+> This is USBPorts.kext fault
 - When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
 - Brightness keys does not work.
 - In some cases, HDMI output won't work. Instead, the built-in display flickers.
@@ -27,7 +28,6 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 + macOS Monterey
 + macOS Ventura
 + macOS Sonoma
-> **macOS Users:** To download macOS Sonoma for your EFI drive, use this link: https://swcdn.apple.com/content/downloads/23/44/032-94352-A_DB05J15QWT/4x91v0yzolyiat5cat76ieu0h78aeu3d03/InstallAssistant.pkg
 
 ## The config.plist includes:
 - Support for the latest macOS available
