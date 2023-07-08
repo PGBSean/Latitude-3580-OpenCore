@@ -6,6 +6,10 @@ This repo lets you download your OpenCore EFI for the Dell Latitude 3580.
 
 WARNING ⚠️: I  do not responsible for lost personal data, or malfunction hard drive. **You are doing this at your own RISK.**
 
+## Screenshot
+![A screenshot of macOS Ventura successfully installed on a laptop](https://github.com/PGBSean/Latitude-3580-OpenCore/assets/97381104/c2ec18fa-e8e0-402f-942f-2da74377639d)
+
+
 
 ## This EFI applys to:
 |  Components             |         Requirements                |            Note                      |
@@ -28,12 +32,10 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 + macOS Monterey
 + macOS Ventura
 + macOS Sonoma
+> To install macOS Sonoma, please change the SMBIOS to MacBookPro15,4 (not reccommended)
 
 ## The config.plist includes:
 - Support for the latest macOS available
 - Mapped USB and Camera (Camera is not suitable for people who has darker skin tone)
 - Proper HDMI support and display calibration
 - and more...
-
-## Screenshot
-![A screenshot of macOS Ventura successfully installed on a laptop](https://github.com/PGBSean/Latitude-3580-OpenCore/assets/97381104/c2ec18fa-e8e0-402f-942f-2da74377639d)
