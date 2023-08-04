@@ -27,12 +27,11 @@ WARNING ⚠️: I  do not responsible for lost personal data, or malfunction har
 
 ## Tested versions
 > This machine is **Safe to Upgrade**! You can upgrade to any macOS available without worrying about stability! Just for safe, always use the latest EFI version!
-+ macOS Catalina
++ ~~macOS Catalina~~ SecureBootModel now need to have Big Sur or above.
 + macOS Big Sur
 + macOS Monterey
 + macOS Ventura
 + macOS Sonoma
-> To install macOS Sonoma, please change the SMBIOS to MacBookPro15,4 (not reccommended)
 
 ## The config.plist includes:
 - Support for the latest macOS available
