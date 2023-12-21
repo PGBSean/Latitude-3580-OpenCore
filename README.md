@@ -1,8 +1,5 @@
 # Latitude-3580-OpenCore
 
-# Exclusive ✨
-  + Future updates will now only ship the config.plist only. You can use OCAT to build the EFI that way.
-
 ## Screenshot
 ![A screenshot of macOS Ventura successfully installed on a laptop](https://github.com/PGBSean/Latitude-3580-OpenCore/assets/97381104/c2ec18fa-e8e0-402f-942f-2da74377639d)
 
