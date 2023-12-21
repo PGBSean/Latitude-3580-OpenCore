@@ -14,8 +14,6 @@
 
 ## Bugs
 - When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
-- Brightness keys does not work.
-- In some cases, HDMI output won't work. Instead, the built-in display flickers.
 
 ## Tested versions
 > This machine is **Safe to Upgrade**! You can upgrade to any macOS available without worrying about stability! Just for safe, always use the latest EFI version!
