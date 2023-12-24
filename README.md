@@ -1,4 +1,10 @@
+### **This EFI is for educational purposes and is not be affiliated with Apple, Dell, or Microsoft. You should not ask for help in any forums, servers as it is violating the rules of the community.** 
+#
+
 # Latitude-3580-OpenCore
+An EFI for the Dell Latitude 3580 lineup of laptops
+
+WARNING ⚠️: I  do not responsible for lost personal data, or damage personal property. **You are doing this at your own RISK.**
 
 ## Screenshot
 ![A screenshot of macOS Ventura successfully installed on a laptop](https://github.com/PGBSean/Latitude-3580-OpenCore/assets/97381104/c2ec18fa-e8e0-402f-942f-2da74377639d)
