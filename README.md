@@ -2,7 +2,7 @@
 #
 
 # Latitude-3580-OpenCore
-An EFI for the Dell Latitude 3580 lineup of laptops
+An EFI for the Dell Latitude 3580/3588 lineup of laptops
 
 WARNING ⚠️: I  do not responsible for lost personal data, or damage personal property. **You are doing this at your own RISK.**
 
@@ -11,15 +11,15 @@ WARNING ⚠️: I  do not responsible for lost personal data, or damage personal
 
 
 
-## This EFI applys to:
+## This EFI applies to:
 |  Components             |         Requirements                |            Note                      |
 |---------------------|---------------------------------|--------------------------------------|
-| CPU |  Intel Core i7-7600U          |  For other CPUs, contact me |
-| GPU |  Intel Iris 620              | AMD/Nivida dGPU won't work |
-| Wi-Fi | Ethernet  |  To get Wi-Fi working, you could use a compatible Wi-Fi card or use your Android device (HoRnDIS.kext included)|
+| CPU |  Intel Core i7-7600U          |  For other CPUs, contact me or tinker yourself |
+| GPU |  Intel Iris 620              | AMD/Nvidia dGPU won't work |
+| Wi-Fi | Ethernet  |  To get Wi-Fi working, you could use a compatible Wi-Fi card/adapter or use your Android device (HoRnDIS.kext included)|
 
 ## Bugs
-- When using Sidecar, after upon disconnecting, Mac will hang, requiring a force reboot.
+- Brightness keys don't work
 
 ## Tested versions
 > This machine is **Safe to Upgrade**! You can upgrade to any macOS available without worrying about stability! Just for safe, always use the latest EFI version!
