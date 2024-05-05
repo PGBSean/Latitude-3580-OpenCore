@@ -1,6 +1,3 @@
-### **** 
-#
-
 # Latitude-3580-OpenCore
 An EFI for the Dell Latitude 3580/3588 lineup of laptops
 
