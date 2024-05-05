@@ -1,10 +1,10 @@
-### **This EFI is for educational purposes and is not be affiliated with Apple, Dell, or Microsoft. You should not ask for help in any forums, servers as it is violating the rules of the community.** 
+### **** 
 #
 
 # Latitude-3580-OpenCore
 An EFI for the Dell Latitude 3580/3588 lineup of laptops
 
-WARNING ⚠️: I  do not responsible for lost personal data, or damage personal property. **You are doing this at your own RISK.**
+WARNING ⚠️: This EFI is for educational purposes and is not affiliated with Apple, Microsoft, or the computer maker. By downloading this EFI, you are accepting the risk that you are responsible for the damage you have done.
 
 ## Screenshot
 ![A screenshot of macOS Ventura successfully installed on a laptop](https://github.com/PGBSean/Latitude-3580-OpenCore/assets/97381104/c2ec18fa-e8e0-402f-942f-2da74377639d)
@@ -20,6 +20,7 @@ WARNING ⚠️: I  do not responsible for lost personal data, or damage personal
 
 ## Bugs
 - Brightness keys don't work
+- SD card slot does not work
 
 ## Tested versions
 > This machine is **Safe to Upgrade**! You can upgrade to any macOS available without worrying about stability! Just for safe, always use the latest EFI version!
