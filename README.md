@@ -26,6 +26,7 @@ WARNING ⚠️: This EFI is for educational purposes and is not affiliated with 
 + macOS Monterey
 + macOS Ventura
 + macOS Sonoma
++ **[BETA]** macOS Sequioa
 
 ## The config.plist includes:
 - Support for the latest macOS available
