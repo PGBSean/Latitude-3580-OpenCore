@@ -17,10 +17,8 @@ WARNING ⚠️: This EFI is for educational purposes and is not affiliated with 
 
 ## Bugs
 - Brightness keys don't work
-- SD card slot does not work
 
 ## Tested versions
-> This machine is **Safe to Upgrade**! You can upgrade to any macOS available without worrying about stability! Just for safe, always use the latest EFI version!
 + macOS Catalina
 + macOS Big Sur
 + macOS Monterey
